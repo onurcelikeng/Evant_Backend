@@ -1,0 +1,7 @@
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\bin\Debug\Evant.DAL.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\bin\Debug\Evant.DAL.pdb
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\bin\Debug\Evant.BO.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\bin\Debug\Evant.BO.pdb
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\obj\Debug\Evant.DAL.csprojResolveAssemblyReference.cache
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\obj\Debug\Evant.DAL.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\Evant\Evant\Evant.DAL\obj\Debug\Evant.DAL.pdb
